@@ -5,3 +5,4 @@ asyncio
 redis
 httpie
 kafka-python
+pytest==7.2.0
