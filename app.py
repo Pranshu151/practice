@@ -4,7 +4,7 @@ app = Flask(__name__)
 
 @app.route("/")
 def home():
-    return "Hello, this is the CI/CD demo"
+    return "Hello, this is the CI/CD demo!"
 
 @app.route("/data")
 def get_data():
